@@ -11,3 +11,5 @@ I'm a security engineer. Good at software reverse engineering, software security
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / C# / Java
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript / PHP
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡And more...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=someone120)
