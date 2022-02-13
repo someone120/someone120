@@ -13,6 +13,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=someone120&show_icons=true&title_color=ff2686&icon_color=ff2686&text_color=403339&bg_color=ffffff&hide_title=false)
 
 <!-- steam-box start -->
+#### <a href="https://gist.github.com/306d158caf86b2658a26d0b57009d549" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🎮 Apex Legends                     🕘 220 hrs 53 mins
+🎮 Dyson Sphere Program             🕘 38 hrs 3 mins
+🎮 Screeps: World                   🕘 35 hrs 25 mins
+🔫 Counter-Strike: Global Offensive 🕘 28 hrs 7 mins
+🎮 DEATH STRANDING                  🕘 25 hrs 44 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 ## ☎ 联系方式
