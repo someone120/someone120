@@ -28,7 +28,7 @@ jobs:
 
       - name: Commit and push
         run: |-
-          ./age ${secrets.born_year}
-          git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
+          ./age ${{secrets.born_year}}
+          git config --global user.email "bot@github.com" && git config --global user.name "age-Bot"
           git add README.md && git commit -m ":memo: update profile" || exit 0
           git pull && git push -f
