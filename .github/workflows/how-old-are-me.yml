@@ -9,7 +9,7 @@ on:
     - cron: "5 0 * * *"
 jobs:
   build:
-    name: Update-waka-stats
+    name: Update-year-stats
     runs-on: ubuntu-latest
     steps:
       - name: Set up Go 1.x
