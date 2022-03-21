@@ -32,7 +32,7 @@ Still Gathering Statistics...
 🎮 Apex Legends                     🕘 235 hrs 16 mins
 🎮 Dyson Sphere Program             🕘 38 hrs 3 mins
 🎮 Screeps: World                   🕘 35 hrs 25 mins
-🔫 Counter-Strike: Global Offensive 🕘 28 hrs 16 mins
+🔫 Counter-Strike: Global Offensive 🕘 28 hrs 46 mins
 🎮 DEATH STRANDING                  🕘 25 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
