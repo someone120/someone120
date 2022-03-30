@@ -29,10 +29,10 @@ HTML 🕓 1m ██████████████████████�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/306d158caf86b2658a26d0b57009d549" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 249 hrs 44 mins
+🎮 Apex Legends                     🕘 250 hrs 18 mins
 🎮 Dyson Sphere Program             🕘 38 hrs 3 mins
 🎮 Screeps: World                   🕘 35 hrs 25 mins
-🎮 Warframe                         🕘 30 hrs 56 mins
+🎮 Warframe                         🕘 31 hrs 9 mins
 🔫 Counter-Strike: Global Offensive 🕘 29 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
