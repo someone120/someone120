@@ -32,7 +32,7 @@ HTML 🕓 1m ██████████████████████�
 🎮 Apex Legends                     🕘 249 hrs 44 mins
 🎮 Dyson Sphere Program             🕘 38 hrs 3 mins
 🎮 Screeps: World                   🕘 35 hrs 25 mins
-🎮 Warframe                         🕘 30 hrs 12 mins
+🎮 Warframe                         🕘 30 hrs 56 mins
 🔫 Counter-Strike: Global Offensive 🕘 29 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
