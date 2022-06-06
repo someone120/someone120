@@ -34,7 +34,7 @@ Other 🕓 3m    █▏░░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Apex Legends                     🕘 275 hrs 3 mins
 🎮 Dyson Sphere Program             🕘 38 hrs 3 mins
-🎮 Screeps: World                   🕘 35 hrs 25 mins
+🎮 Screeps: World                   🕘 35 hrs 29 mins
 🎮 Warframe                         🕘 32 hrs 32 mins
 🔫 Counter-Strike: Global Offensive 🕘 29 hrs 2 mins
 ```
