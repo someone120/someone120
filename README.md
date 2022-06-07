@@ -36,7 +36,7 @@ Other 🕓 3m    █▏░░░░░░░░░░░░░░░░░░░
 🎮 Dyson Sphere Program             🕘 38 hrs 3 mins
 🎮 Screeps: World                   🕘 35 hrs 29 mins
 🎮 Warframe                         🕘 32 hrs 32 mins
-🔫 Counter-Strike: Global Offensive 🕘 30 hrs 9 mins
+🔫 Counter-Strike: Global Offensive 🕘 30 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
