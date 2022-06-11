@@ -32,7 +32,7 @@ Bash 🕓 1m   ▎░░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/306d158caf86b2658a26d0b57009d549" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 278 hrs 10 mins
+🎮 Apex Legends                     🕘 278 hrs 39 mins
 🎮 Dyson Sphere Program             🕘 38 hrs 9 mins
 🎮 Screeps: World                   🕘 35 hrs 29 mins
 🎮 Warframe                         🕘 32 hrs 32 mins
