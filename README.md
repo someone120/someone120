@@ -30,7 +30,7 @@ Still Gathering Statistics...
 #### <a href="https://gist.github.com/306d158caf86b2658a26d0b57009d549" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Apex Legends                     🕘 293 hrs 1 mins
-🎮 Dyson Sphere Program             🕘 41 hrs 58 mins
+🎮 Dyson Sphere Program             🕘 42 hrs 19 mins
 🎮 Screeps: World                   🕘 35 hrs 29 mins
 🎮 Warframe                         🕘 32 hrs 32 mins
 🔫 Counter-Strike: Global Offensive 🕘 31 hrs 35 mins
