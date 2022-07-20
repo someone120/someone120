@@ -31,7 +31,7 @@ Still Gathering Statistics...
 ```text
 🎮 Apex Legends                     🕘 303 hrs 33 mins
 🎮 Dyson Sphere Program             🕘 42 hrs 19 mins
-🎮 Warframe                         🕘 41 hrs 12 mins
+🎮 Warframe                         🕘 41 hrs 18 mins
 🎮 Screeps: World                   🕘 35 hrs 29 mins
 🔫 Counter-Strike: Global Offensive 🕘 31 hrs 35 mins
 ```
