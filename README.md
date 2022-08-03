@@ -29,7 +29,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/306d158caf86b2658a26d0b57009d549" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 317 hrs 36 mins
+🎮 Apex Legends                     🕘 317 hrs 50 mins
 🎮 Dyson Sphere Program             🕘 42 hrs 19 mins
 🎮 Warframe                         🕘 41 hrs 28 mins
 🎮 Screeps: World                   🕘 35 hrs 29 mins
