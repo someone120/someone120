@@ -32,8 +32,8 @@ Still Gathering Statistics...
 🎮 Apex Legends                     🕘 324 hrs 3 mins
 🎮 Dyson Sphere Program             🕘 42 hrs 19 mins
 🎮 Warframe                         🕘 41 hrs 28 mins
+🎮 DEATH STRANDING                  🕘 36 hrs 8 mins
 🎮 Screeps: World                   🕘 35 hrs 29 mins
-🎮 DEATH STRANDING                  🕘 35 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
