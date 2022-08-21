@@ -29,7 +29,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/306d158caf86b2658a26d0b57009d549" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 338 hrs 43 mins
+🎮 Apex Legends                     🕘 339 hrs 12 mins
 🎮 Dyson Sphere Program             🕘 55 hrs 37 mins
 🎮 Warframe                         🕘 41 hrs 28 mins
 🎮 DEATH STRANDING                  🕘 37 hrs 56 mins
