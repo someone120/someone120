@@ -36,7 +36,7 @@ XML    🕓 4m     ▏░░░░░░░░░░░░░░░░░░░�
 🎮 Apex Legends                     🕘 342 hrs 7 mins
 🎮 Dyson Sphere Program             🕘 55 hrs 37 mins
 🎮 Warframe                         🕘 41 hrs 28 mins
-🎮 DEATH STRANDING                  🕘 37 hrs 56 mins
+🎮 DEATH STRANDING                  🕘 37 hrs 58 mins
 🎮 Screeps: World                   🕘 35 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
