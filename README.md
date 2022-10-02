@@ -37,7 +37,7 @@ Other 🕓 0s    ░░░░░░░░░░░░░░░░░░░░░
 🎮 Dyson Sphere Program             🕘 55 hrs 37 mins
 🎮 Warframe                         🕘 41 hrs 28 mins
 🎮 DEATH STRANDING                  🕘 38 hrs 24 mins
-🎮 Screeps: World                   🕘 35 hrs 29 mins
+🔫 Counter-Strike: Global Offensive 🕘 35 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
