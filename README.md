@@ -36,7 +36,7 @@ Other 🕓 0s    ░░░░░░░░░░░░░░░░░░░░░
 🎮 Apex Legends                     🕘 356 hrs 38 mins
 🎮 Dyson Sphere Program             🕘 55 hrs 37 mins
 🎮 Warframe                         🕘 41 hrs 28 mins
-🔫 Counter-Strike: Global Offensive 🕘 39 hrs 46 mins
+🔫 Counter-Strike: Global Offensive 🕘 40 hrs 11 mins
 🎮 DEATH STRANDING                  🕘 38 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
