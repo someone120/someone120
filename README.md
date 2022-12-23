@@ -34,7 +34,7 @@ Other 🕓 0s    ░░░░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/306d158caf86b2658a26d0b57009d549" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Apex Legends                     🕘 362 hrs 21 mins
-🔫 Counter-Strike: Global Offensive 🕘 94 hrs 38 mins
+🔫 Counter-Strike: Global Offensive 🕘 95 hrs 15 mins
 🎮 Dyson Sphere Program             🕘 55 hrs 37 mins
 🎮 Warframe                         🕘 41 hrs 28 mins
 🎮 DEATH STRANDING                  🕘 38 hrs 24 mins
