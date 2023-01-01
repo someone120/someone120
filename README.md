@@ -1,5 +1,5 @@
 # 👋 Hey!
-<!-- age-box start -->16<!-- age-box end -->岁，是学生
+<!-- age-box start -->17<!-- age-box end -->岁，是学生
 
 ## 💬 能用的语音
 
