@@ -25,6 +25,8 @@ jobs:
     steps:
       - name: Set up rust
         uses: actions-rs/toolchain@v1.0.6
+        with:
+          toolchain: nightly
         id: go
       - name: Clone and run waka-box
         run: |-
