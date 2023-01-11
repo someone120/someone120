@@ -17,12 +17,15 @@
 
 <!-- waka-box start -->📊 Weekly development breakdown
 ```text
+
 Python|####################################              |72.44%
 Rust  |############                                      |24.06%
 PHP   |                                                  |1.73%
 Other |                                                  |1.18%
 TOML  |                                                  |0.49%
-C     |                                                  |0.11%```<!-- waka-box end -->
+C     |                                                  |0.11%
+```
+<!-- waka-box end -->
 
 </td>
 <td valign="top" width="50%">
