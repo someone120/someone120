@@ -26,7 +26,7 @@ jobs:
 
       - name: Commit and push
         run: |-
-          pwd
+          ls
           ./waka
           git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
           git add README.md && git commit -m ":memo: update profile" || exit 0
