@@ -23,20 +23,10 @@ jobs:
       GIST_TIMESTYLE: SHORT
 
     steps:
-      - name: Set up rust
-        uses: actions-rs/toolchain@v1.0.6
-        with:
-          toolchain: nightly
-        id: go
-      - name: Clone and run waka-box
-        run: |-
-          git clone https://github.com/someone120/wakabox.git 
-          cd wakabox
-          cargo build --release
-          mv ./target/release/wakabox ../waka && cd .. && rm -rf wakabox
 
       - name: Commit and push
         run: |-
+          pwd
           ./waka
           git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
           git add README.md && git commit -m ":memo: update profile" || exit 0
