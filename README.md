@@ -19,14 +19,14 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Rust      |########################################          |13 hrs 48 mins 81.11%
-Vue.js    |######                                            |2 hrs 4 mins 12.2%
-Markdown  |#                                                 |22 mins 2.19%
-TypeScript|                                                  |18 mins 1.83%
-JSON      |                                                  |11 mins 1.08%
-Git Config|                                                  |6 mins 0.63%
-TOML      |                                                  |4 mins 0.47%
-HTML      |                                                  |4 mins 0.47%
+Rust      |########################################          |14 hrs 28 mins 81.78%
+Vue.js    |#####                                             |2 hrs 4 mins 11.74%
+Markdown  |#                                                 |22 mins 2.11%
+TypeScript|                                                  |18 mins 1.77%
+JSON      |                                                  |11 mins 1.07%
+Git Config|                                                  |6 mins 0.6%
+TOML      |                                                  |4 mins 0.46%
+HTML      |                                                  |4 mins 0.45%
 CSS       |                                                  |0 secs 0.01%
 XML       |                                                  |0 secs 0%
 Other     |                                                  |0 secs 0%
