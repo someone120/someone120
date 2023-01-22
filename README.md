@@ -19,11 +19,10 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Rust      |###############################################   |11 hrs 19 mins 94.33%
-Markdown  |#                                                 |18 mins 2.56%
-JSON      |                                                  |10 mins 1.52%
-Vue.js    |                                                  |7 mins 1.03%
-TOML      |                                                  |3 mins 0.54%
+Rust      |################################################  |9 hrs 8 mins 96.1%
+JSON      |                                                  |10 mins 1.92%
+Vue.js    |                                                  |7 mins 1.3%
+TOML      |                                                  |3 mins 0.64%
 TypeScript|                                                  |0 secs 0.02%
 Other     |                                                  |0 secs 0%
 ```
