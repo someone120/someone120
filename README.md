@@ -19,21 +19,14 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Rust      |##################################                |6 hrs 52 mins 69.75%
-Vue.js    |#########                                         |1 hr 57 mins 19.82%
-Python    |#                                                 |20 mins 3.51%
-TypeScript|#                                                 |18 mins 3.14%
-Markdown  |                                                  |6 mins 1.13%
-Git Config|                                                  |6 mins 1.08%
-HTML      |                                                  |4 mins 0.81%
-TOML      |                                                  |1 min 0.27%
-PHP       |                                                  |1 min 0.23%
-JSON      |                                                  |0 secs 0.16%
-Other     |                                                  |0 secs 0.04%
-CSS       |                                                  |0 secs 0.02%
-C         |                                                  |0 secs 0.02%
-JavaScript|                                                  |0 secs 0.01%
-XML       |                                                  |0 secs 0.01%
+Rust      |########################################          |5 hrs 2 mins 80.77%
+Vue.js    |#####                                             |43 mins 11.51%
+Other     |#                                                 |13 mins 3.63%
+Markdown  |#                                                 |7 mins 2.09%
+Text      |                                                  |3 mins 0.93%
+JSON      |                                                  |2 mins 0.73%
+TOML      |                                                  |1 min 0.31%
+TypeScript|                                                  |0 secs 0.03%
 ```
 <!-- waka-box end -->
 
@@ -43,8 +36,8 @@ XML       |                                                  |0 secs 0.01%
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/306d158caf86b2658a26d0b57009d549" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 367 hrs 11 mins
-🔫 Counter-Strike: Global Offensive 🕘 130 hrs 11 mins
+🎮 Apex Legends                     🕘 375 hrs 28 mins
+🔫 Counter-Strike: Global Offensive 🕘 141 hrs 48 mins
 🎮 Dyson Sphere Program             🕘 55 hrs 37 mins
 🎮 DEATH STRANDING                  🕘 42 hrs 18 mins
 🎮 Warframe                         🕘 41 hrs 28 mins
