@@ -19,9 +19,9 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Vue.js    |################################################  |7 mins 97.28%
-CSS       |#                                                 |0 secs 2.54%
-TypeScript|                                                  |0 secs 0.17%
+Vue.js    |################################################# |7 mins 98.89%
+CSS       |                                                  |0 secs 0.93%
+TypeScript|                                                  |0 secs 0.18%
 ```
 <!-- waka-box end -->
 
