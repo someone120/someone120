@@ -19,7 +19,8 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Nix|##################################################|27 mins 100%
+Nix  |############################################      |1 hr 15 mins 88.54%
+Other|#####                                             |9 mins 11.46%
 ```
 <!-- waka-box end -->
 
