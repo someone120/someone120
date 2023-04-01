@@ -19,12 +19,13 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Nix     |########################################          |47 mins 81.01%
-Other   |########                                          |9 mins 16.53%
-JSON    |                                                  |0 secs 1.3%
-Markdown|                                                  |0 secs 0.93%
-Git     |                                                  |0 secs 0.21%
-Text    |                                                  |0 secs 0.02%
+Git       |#####################################             |57 mins 74.23%
+Markdown  |#######                                           |11 mins 14.91%
+JSON      |##                                                |4 mins 5.98%
+Nix       |#                                                 |2 mins 3.38%
+Git Config|                                                  |1 min 1.45%
+Other     |                                                  |0 secs 0.03%
+Text      |                                                  |0 secs 0.01%
 ```
 <!-- waka-box end -->
 
