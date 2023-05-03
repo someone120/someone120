@@ -31,7 +31,7 @@ Rust|##################################################|1 hr 57 mins 100%
 ```text
 🎮 Apex Legends                     🕘 386 hrs 11 mins
 🔫 Counter-Strike: Global Offensive 🕘 191 hrs 25 mins
-🎮 Dyson Sphere Program             🕘 55 hrs 38 mins
+🎮 Dyson Sphere Program             🕘 55 hrs 42 mins
 🎮 DEATH STRANDING                  🕘 42 hrs 18 mins
 🎮 Warframe                         🕘 41 hrs 33 mins
 ```
