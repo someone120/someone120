@@ -19,7 +19,8 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Rust|##################################################|1 hr 57 mins 100%
+Git Config|################################################  |0 secs 97.94%
+Rust      |#                                                 |0 secs 2.06%
 ```
 <!-- waka-box end -->
 
