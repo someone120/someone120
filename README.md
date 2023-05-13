@@ -19,8 +19,13 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Git Config|################################################  |0 secs 97.94%
-Rust      |#                                                 |0 secs 2.06%
+Git Config|#########################                         |0 secs 50.75%
+Vue.js    |###########                                       |0 secs 23.6%
+TypeScript|####                                              |0 secs 9.9%
+XML       |####                                              |0 secs 8.66%
+SCSS      |#                                                 |0 secs 3.48%
+HTML      |#                                                 |0 secs 2.54%
+Rust      |                                                  |0 secs 1.07%
 ```
 <!-- waka-box end -->
 
