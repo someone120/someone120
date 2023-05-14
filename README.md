@@ -35,8 +35,8 @@ Rust      |                                                  |0 secs 1.07%
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/306d158caf86b2658a26d0b57009d549" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 387 hrs 47 mins
-🔫 Counter-Strike: Global Offensive 🕘 199 hrs 4 mins
+🎮 Apex Legends                     🕘 388 hrs 3 mins
+🔫 Counter-Strike: Global Offensive 🕘 199 hrs 47 mins
 🎮 Dyson Sphere Program             🕘 55 hrs 42 mins
 🎮 DEATH STRANDING                  🕘 42 hrs 18 mins
 🎮 Warframe                         🕘 41 hrs 33 mins
