@@ -19,11 +19,11 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Rust      |########################                          |12 mins 49.36%
-YAML      |######################                            |11 mins 45.71%
-TOML      |##                                                |1 min 4.79%
-Git Config|                                                  |0 secs 0.08%
-Other     |                                                  |0 secs 0.06%
+Rust      |#############################################     |4 hrs 5 mins 91.74%
+YAML      |###                                               |17 mins 6.48%
+TOML      |                                                  |4 mins 1.7%
+Other     |                                                  |0 secs 0.07%
+Git Config|                                                  |0 secs 0.01%
 ```
 <!-- waka-box end -->
 
