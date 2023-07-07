@@ -19,14 +19,14 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Other   |####################                              |54 mins 41.89%
-YAML    |#############                                     |34 mins 26.63%
-Rust    |#########                                         |24 mins 18.43%
-TOML    |##                                                |6 mins 4.88%
-Gradle  |##                                                |5 mins 4.49%
-Markdown|#                                                 |4 mins 3.2%
-Kotlin  |                                                  |0 secs 0.43%
-Git     |                                                  |0 secs 0.06%
+Other   |##########################                        |1 hr 23 mins 52.45%
+YAML    |##########                                        |34 mins 21.79%
+Rust    |#######                                           |24 mins 15.08%
+TOML    |#                                                 |6 mins 3.99%
+Gradle  |#                                                 |5 mins 3.67%
+Markdown|#                                                 |4 mins 2.62%
+Kotlin  |                                                  |0 secs 0.35%
+Git     |                                                  |0 secs 0.05%
 ```
 <!-- waka-box end -->
 
