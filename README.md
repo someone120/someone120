@@ -19,7 +19,19 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Rust|##################################################|8 mins 100%
+Dart          |###########################                       |2 hrs 34 mins 54.48%
+YAML          |######                                            |36 mins 12.81%
+Gradle        |######                                            |36 mins 12.73%
+Properties    |###                                               |17 mins 6%
+Groovy        |##                                                |15 mins 5.63%
+Rust          |#                                                 |8 mins 3.01%
+IDEA_MODULE   |#                                                 |6 mins 2.26%
+GitIgnore file|                                                  |5 mins 1.99%
+textmate      |                                                  |1 min 0.63%
+Swift         |                                                  |0 secs 0.32%
+Markdown      |                                                  |0 secs 0.08%
+Kotlin        |                                                  |0 secs 0.04%
+Java          |                                                  |0 secs 0.03%
 ```
 <!-- waka-box end -->
 
