@@ -19,19 +19,20 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Dart          |###########################                       |2 hrs 34 mins 54.48%
-YAML          |######                                            |36 mins 12.81%
-Gradle        |######                                            |36 mins 12.73%
-Properties    |###                                               |17 mins 6%
-Groovy        |##                                                |15 mins 5.63%
-Rust          |#                                                 |8 mins 3.01%
-IDEA_MODULE   |#                                                 |6 mins 2.26%
-GitIgnore file|                                                  |5 mins 1.99%
-textmate      |                                                  |1 min 0.63%
-Swift         |                                                  |0 secs 0.32%
-Markdown      |                                                  |0 secs 0.08%
-Kotlin        |                                                  |0 secs 0.04%
-Java          |                                                  |0 secs 0.03%
+Dart          |###############################                   |4 hrs 10 mins 63.56%
+Gradle        |####                                              |37 mins 9.39%
+YAML          |####                                              |36 mins 9.36%
+Groovy        |##                                                |21 mins 5.48%
+Properties    |##                                                |19 mins 4.94%
+Rust          |#                                                 |8 mins 2.17%
+IDEA_MODULE   |                                                  |6 mins 1.63%
+GitIgnore file|                                                  |5 mins 1.43%
+textmate      |                                                  |3 mins 0.95%
+XML           |                                                  |2 mins 0.74%
+Swift         |                                                  |0 secs 0.23%
+Markdown      |                                                  |0 secs 0.06%
+Kotlin        |                                                  |0 secs 0.03%
+Java          |                                                  |0 secs 0.02%
 ```
 <!-- waka-box end -->
 
