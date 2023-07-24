@@ -19,20 +19,14 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Dart          |###########################                       |4 hrs 10 mins 55.64%
-C             |#######                                           |1 hr 4 mins 14.37%
-Gradle        |####                                              |37 mins 8.22%
-YAML          |####                                              |36 mins 8.2%
-Groovy        |##                                                |21 mins 4.8%
-Properties    |##                                                |19 mins 4.33%
-IDEA_MODULE   |                                                  |6 mins 1.43%
-GitIgnore file|                                                  |5 mins 1.25%
-textmate      |                                                  |3 mins 0.83%
-XML           |                                                  |2 mins 0.65%
-Swift         |                                                  |0 secs 0.2%
-Markdown      |                                                  |0 secs 0.05%
-Kotlin        |                                                  |0 secs 0.03%
-Java          |                                                  |0 secs 0.02%
+Dart      |###########################                       |1 hr 35 mins 54.79%
+C         |##################                                |1 hr 4 mins 37.04%
+Groovy    |#                                                 |5 mins 3.21%
+XML       |                                                  |2 mins 1.68%
+Properties|                                                  |2 mins 1.39%
+textmate  |                                                  |1 min 1.11%
+Gradle    |                                                  |0 secs 0.49%
+YAML      |                                                  |0 secs 0.29%
 ```
 <!-- waka-box end -->
 
