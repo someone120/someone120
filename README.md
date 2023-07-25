@@ -19,14 +19,7 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Dart      |###########################                       |1 hr 35 mins 54.79%
-C         |##################                                |1 hr 4 mins 37.04%
-Groovy    |#                                                 |5 mins 3.21%
-XML       |                                                  |2 mins 1.68%
-Properties|                                                  |2 mins 1.39%
-textmate  |                                                  |1 min 1.11%
-Gradle    |                                                  |0 secs 0.49%
-YAML      |                                                  |0 secs 0.29%
+C|##################################################|1 hr 4 mins 100%
 ```
 <!-- waka-box end -->
 
