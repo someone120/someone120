@@ -19,14 +19,11 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Rust          |###############################################   |3 hrs 2 mins 95.93%
-Lua           |#                                                 |5 mins 2.82%
-ActionScript 3|                                                  |0 secs 0.44%
-ca65 assembler|                                                  |0 secs 0.31%
-Ezhil         |                                                  |0 secs 0.3%
-TOML          |                                                  |0 secs 0.11%
-JSON          |                                                  |0 secs 0.09%
-SQL           |                                                  |0 secs 0.01%
+Rust          |############################                      |9 mins 57.86%
+Lua           |################                                  |5 mins 32.61%
+ActionScript 3|##                                                |0 secs 5.08%
+Ezhil         |#                                                 |0 secs 3.45%
+JSON          |                                                  |0 secs 1%
 ```
 <!-- waka-box end -->
 
