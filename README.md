@@ -19,11 +19,10 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Rust          |############################                      |9 mins 57.86%
-Lua           |################                                  |5 mins 32.61%
-ActionScript 3|##                                                |0 secs 5.08%
-Ezhil         |#                                                 |0 secs 3.45%
-JSON          |                                                  |0 secs 1%
+Lua           |#######################                           |5 mins 47.49%
+Rust          |####################                              |4 mins 40.09%
+ActionScript 3|###                                               |0 secs 7.4%
+Ezhil         |##                                                |0 secs 5.03%
 ```
 <!-- waka-box end -->
 
