@@ -19,7 +19,15 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Text|##################################################|0 secs 100%
+Kotlin        |#########################                         |3 mins 51.04%
+GitIgnore file|#########                                         |1 min 19.79%
+Assembly      |#######                                           |0 secs 15.41%
+Ezhil         |####                                              |0 secs 9.91%
+Markdown      |                                                  |0 secs 1.58%
+Text          |                                                  |0 secs 1.16%
+ActionScript  |                                                  |0 secs 0.83%
+XML           |                                                  |0 secs 0.17%
+Properties    |                                                  |0 secs 0.12%
 ```
 <!-- waka-box end -->
 
