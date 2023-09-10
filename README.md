@@ -19,16 +19,8 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-TypeScript    |####################                              |7 mins 40.87%
-Python        |##############                                    |5 mins 28.22%
-Kotlin        |#######                                           |3 mins 15.96%
-GitIgnore file|###                                               |1 min 6.19%
-Assembly      |##                                                |0 secs 4.82%
-Ezhil         |#                                                 |0 secs 3.1%
-Markdown      |                                                  |0 secs 0.49%
-ActionScript  |                                                  |0 secs 0.26%
-XML           |                                                  |0 secs 0.05%
-Properties    |                                                  |0 secs 0.04%
+TypeScript|#############################                     |7 mins 59.15%
+Python    |####################                              |5 mins 40.85%
 ```
 <!-- waka-box end -->
 
