@@ -30,8 +30,8 @@ Python    |####################                              |5 mins 40.85%
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/306d158caf86b2658a26d0b57009d549" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 404 hrs 16 mins
-🔫 Counter-Strike 2                 🕘 233 hrs 18 mins
+🎮 Apex Legends                     🕘 404 hrs 36 mins
+🔫 Counter-Strike 2                 🕘 233 hrs 43 mins
 🎮 Dyson Sphere Program             🕘 55 hrs 42 mins
 🎮 DEATH STRANDING                  🕘 43 hrs 18 mins
 🎮 Warframe                         🕘 41 hrs 33 mins
