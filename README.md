@@ -19,8 +19,14 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-TypeScript|#############################                     |7 mins 59.15%
-Python    |####################                              |5 mins 40.85%
+Kotlin        |############################################      |1 hr 6 mins 88.37%
+GDScript3     |#                                                 |2 mins 3.52%
+YAML          |#                                                 |2 mins 2.78%
+Git           |#                                                 |1 min 2.46%
+GitIgnore file|#                                                 |1 min 2.15%
+Java          |                                                  |0 secs 0.42%
+XML           |                                                  |0 secs 0.19%
+Markdown      |                                                  |0 secs 0.11%
 ```
 <!-- waka-box end -->
 
