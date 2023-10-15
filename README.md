@@ -29,7 +29,7 @@ YAML|##################################################|0 secs 100%
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/306d158caf86b2658a26d0b57009d549" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 405 hrs 15 mins
+🎮 Apex Legends                     🕘 405 hrs 25 mins
 🔫 Counter-Strike 2                 🕘 234 hrs 23 mins
 🎮 Dyson Sphere Program             🕘 55 hrs 42 mins
 🎮 DEATH STRANDING                  🕘 43 hrs 18 mins
