@@ -19,10 +19,11 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Python|############################                      |9 mins 56.5%
-Other |#################                                 |5 mins 35.9%
-Text  |##                                                |0 secs 5.14%
-INI   |#                                                 |0 secs 2.46%
+Python|#########################                         |9 mins 50.78%
+Other |################                                  |5 mins 32.26%
+Bash  |#####                                             |1 min 10.13%
+Text  |##                                                |0 secs 4.61%
+INI   |#                                                 |0 secs 2.21%
 ```
 <!-- waka-box end -->
 
