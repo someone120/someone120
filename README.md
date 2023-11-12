@@ -19,17 +19,14 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-TypeScript     |###########################                       |1 hr 32 mins 54.88%
-Kotlin         |########                                          |29 mins 17.29%
-INI            |####                                              |14 mins 8.56%
-JSON           |###                                               |12 mins 7.73%
-Lua            |###                                               |10 mins 6.27%
-CMake          |##                                                |6 mins 4.01%
-Java Properties|                                                  |0 secs 0.45%
-JavaScript     |                                                  |0 secs 0.42%
-Python         |                                                  |0 secs 0.24%
-Bash           |                                                  |0 secs 0.13%
-Other          |                                                  |0 secs 0.02%
+TypeScript|####################################              |1 hr 32 mins 72.79%
+JSON      |#####                                             |12 mins 10.25%
+CMake     |####                                              |11 mins 9.21%
+Lua       |###                                               |8 mins 6.73%
+JavaScript|                                                  |0 secs 0.55%
+INI       |                                                  |0 secs 0.26%
+Bash      |                                                  |0 secs 0.17%
+Other     |                                                  |0 secs 0.03%
 ```
 <!-- waka-box end -->
 
