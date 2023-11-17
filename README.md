@@ -19,13 +19,13 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-TypeScript|#########################################         |3 hrs 1 min 82.41%
-JSON      |####                                              |18 mins 8.45%
-CMake     |##                                                |11 mins 5.3%
-Lua       |#                                                 |5 mins 2.46%
-JavaScript|                                                  |2 mins 1.14%
-INI       |                                                  |0 secs 0.15%
-TSConfig  |                                                  |0 secs 0.08%
+TypeScript|########################################          |2 hrs 29 mins 81.59%
+JSON      |####                                              |15 mins 8.43%
+CMake     |###                                               |11 mins 6.39%
+Lua       |                                                  |3 mins 1.93%
+JavaScript|                                                  |2 mins 1.38%
+INI       |                                                  |0 secs 0.18%
+TSConfig  |                                                  |0 secs 0.1%
 ```
 <!-- waka-box end -->
 
