@@ -32,7 +32,7 @@ Lua       |##                                                |3 mins 4.2%
 #### <a href="https://gist.github.com/306d158caf86b2658a26d0b57009d549" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Apex Legends                     🕘 437 hrs 30 mins
-🔫 Counter-Strike 2                 🕘 241 hrs 3 mins
+🔫 Counter-Strike 2                 🕘 242 hrs 17 mins
 🎮 Dyson Sphere Program             🕘 72 hrs 34 mins
 🎮 Warframe                         🕘 43 hrs 47 mins
 🎮 DEATH STRANDING                  🕘 43 hrs 18 mins
