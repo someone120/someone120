@@ -33,7 +33,7 @@ Lua       |##                                                |3 mins 4.2%
 ```text
 🎮 Apex Legends                     🕘 437 hrs 30 mins
 🔫 Counter-Strike 2                 🕘 242 hrs 24 mins
-🎮 Dyson Sphere Program             🕘 72 hrs 34 mins
+🎮 Dyson Sphere Program             🕘 72 hrs 36 mins
 🎮 Warframe                         🕘 43 hrs 47 mins
 🎮 DEATH STRANDING                  🕘 43 hrs 18 mins
 ```
