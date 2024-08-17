@@ -35,7 +35,7 @@ Lua       |##                                                |3 mins 4.2%
 🔫 Counter-Strike 2                 🕘 244 hrs 13 mins
 🎮 Dyson Sphere Program             🕘 72 hrs 36 mins
 🎮 Warframe                         🕘 43 hrs 47 mins
-🎮 DEATH STRANDING                  🕘 43 hrs 18 mins
+🎮 Monster Hunter: World            🕘 43 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
