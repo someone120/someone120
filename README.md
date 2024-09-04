@@ -35,7 +35,7 @@ Lua       |##                                                |3 mins 4.2%
 🔫 Counter-Strike 2                 🕘 251 hrs 36 mins
 🎮 Dyson Sphere Program             🕘 72 hrs 36 mins
 🎮 Monster Hunter: World            🕘 44 hrs 20 mins
-🎮 Warframe                         🕘 43 hrs 47 mins
+🎮 Warframe                         🕘 44 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
