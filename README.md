@@ -19,9 +19,12 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-TypeScript|########################################          |57 mins 80.65%
-Text      |#######                                           |10 mins 15.15%
-Lua       |##                                                |3 mins 4.2%
+Rust      |###########################                       |3 hrs 7 mins 54.57%
+Vue.js    |#############                                     |1 hr 29 mins 26.2%
+TypeScript|########                                          |56 mins 16.47%
+JSON      |                                                  |5 mins 1.64%
+SQL       |                                                  |1 min 0.57%
+TOML      |                                                  |1 min 0.54%
 ```
 <!-- waka-box end -->
 
