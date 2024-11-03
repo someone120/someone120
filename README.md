@@ -19,16 +19,15 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Vue.js     |########################                          |3 hrs 31 mins 48.15%
-Rust       |#############                                     |1 hr 55 mins 26.23%
-Markdown   |####                                              |40 mins 9.31%
-SQL        |##                                                |22 mins 5.09%
-Other      |#                                                 |16 mins 3.82%
-TypeScript |#                                                 |13 mins 3.07%
-JSON       |#                                                 |10 mins 2.45%
-Image (svg)|                                                  |5 mins 1.3%
-Git        |                                                  |2 mins 0.57%
-TOML       |                                                  |0 secs 0.02%
+Vue.js    |#####################                             |2 hrs 27 mins 42.67%
+Rust      |##############                                    |1 hr 40 mins 29.03%
+Markdown  |#####                                             |40 mins 11.83%
+SQL       |###                                               |22 mins 6.47%
+Other     |##                                                |15 mins 4.45%
+TypeScript|#                                                 |13 mins 3.81%
+JSON      |                                                  |3 mins 1%
+Git       |                                                  |2 mins 0.72%
+TOML      |                                                  |0 secs 0.02%
 ```
 <!-- waka-box end -->
 
