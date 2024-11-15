@@ -19,12 +19,14 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-C          |#############################                     |55 mins 59.86%
-Vue.js     |################                                  |31 mins 33.98%
-Other      |#                                                 |2 mins 2.43%
-JSON       |                                                  |1 min 1.78%
-INI        |                                                  |1 min 1.4%
-Objective-C|                                                  |0 secs 0.56%
+C          |################                                  |55 mins 33.55%
+Vue.js     |################                                  |54 mins 32.96%
+Other      |#######                                           |26 mins 15.95%
+Rust       |#######                                           |25 mins 15.4%
+JSON       |                                                  |1 min 1%
+INI        |                                                  |1 min 0.78%
+Objective-C|                                                  |0 secs 0.31%
+Git Config |                                                  |0 secs 0.04%
 ```
 <!-- waka-box end -->
 
