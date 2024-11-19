@@ -19,14 +19,13 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Vue.js    |#######################                           |2 hrs 12 mins 46.48%
-Rust      |###############                                   |1 hr 26 mins 30.17%
-Other     |####                                              |25 mins 8.86%
-TypeScript|##                                                |13 mins 4.84%
-JSON      |##                                                |13 mins 4.79%
-Git Config|#                                                 |9 mins 3.39%
-SQL       |                                                  |1 min 0.6%
-C         |                                                  |1 min 0.45%
+Vue.js    |#######################                           |2 hrs 15 mins 47.21%
+Rust      |###############                                   |1 hr 26 mins 30%
+Other     |####                                              |25 mins 8.81%
+TypeScript|##                                                |13 mins 4.82%
+JSON      |##                                                |13 mins 4.78%
+Git Config|#                                                 |9 mins 3.37%
+SQL       |                                                  |1 min 0.59%
 TSConfig  |                                                  |0 secs 0.33%
 Git       |                                                  |0 secs 0.09%
 ```
