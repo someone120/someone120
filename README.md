@@ -19,10 +19,11 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Vue.js    |################################################# |52 mins 99.24%
-JSON      |                                                  |0 secs 0.36%
-Rust      |                                                  |0 secs 0.33%
-TypeScript|                                                  |0 secs 0.07%
+Vue.js    |##########################################        |52 mins 84.03%
+Rust      |#######                                           |9 mins 15.6%
+JSON      |                                                  |0 secs 0.31%
+TypeScript|                                                  |0 secs 0.06%
+TOML      |                                                  |0 secs 0.01%
 ```
 <!-- waka-box end -->
 
