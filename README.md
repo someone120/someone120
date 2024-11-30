@@ -36,7 +36,7 @@ TOML      |                                                  |0 secs 0.01%
 #### <a href="https://gist.github.com/306d158caf86b2658a26d0b57009d549" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Apex Legends                     🕘 440 hrs 51 mins
-🔫 Counter-Strike 2                 🕘 269 hrs 48 mins
+🔫 Counter-Strike 2                 🕘 270 hrs 9 mins
 🎮 Dyson Sphere Program             🕘 72 hrs 37 mins
 🎮 DEATH STRANDING                  🕘 44 hrs 40 mins
 🎮 Monster Hunter: World            🕘 44 hrs 33 mins
