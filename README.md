@@ -19,10 +19,10 @@
 #### <a href="https://github.com/someone120/someone120" target="_blank">📊 Weekly development breakdown</a>
 ```text
     
-Rust       |#####################################             |1 hr 21 mins 75.32%
-Image (svg)|####                                              |9 mins 9.03%
-HTML       |####                                              |8 mins 8.04%
-Other      |###                                               |6 mins 6.2%
+Rust       |#####################################             |1 hr 21 mins 75.61%
+Image (svg)|####                                              |9 mins 8.75%
+HTML       |####                                              |8 mins 8.07%
+Other      |###                                               |6 mins 6.16%
 TOML       |                                                  |0 secs 0.75%
 Markdown   |                                                  |0 secs 0.62%
 Text       |                                                  |0 secs 0.03%
