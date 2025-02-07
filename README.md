@@ -37,7 +37,7 @@ Text       |                                                  |0 secs 0.03%
 ```text
 🎮 Apex Legends                     🕘 444 hrs 0 mins
 🔫 Counter-Strike 2                 🕘 312 hrs 10 mins
-🎮 Dyson Sphere Program             🕘 72 hrs 46 mins
+🎮 Dyson Sphere Program             🕘 72 hrs 52 mins
 🎮 DEATH STRANDING                  🕘 44 hrs 40 mins
 🎮 Monster Hunter: World            🕘 44 hrs 33 mins
 ```
