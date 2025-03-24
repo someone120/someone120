@@ -39,7 +39,7 @@ Text       |                                                  |0 secs 0.03%
 🔫 Counter-Strike 2                 🕘 351 hrs 49 mins
 🎮 Dyson Sphere Program             🕘 72 hrs 52 mins
 🎮 DEATH STRANDING                  🕘 44 hrs 40 mins
-🎮 Monster Hunter: World            🕘 44 hrs 33 mins
+🎮 Monster Hunter: World            🕘 44 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
