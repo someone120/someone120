@@ -39,7 +39,7 @@ Text       |                                                  |0 secs 0.03%
 🔫 Counter-Strike 2                 🕘 411 hrs 15 mins
 🎮 Dyson Sphere Program             🕘 72 hrs 52 mins
 🎮 NEKOPARA Vol. 3                  🕘 52 hrs 32 mins
-🎮 Monster Hunter: World            🕘 48 hrs 16 mins
+🎮 Monster Hunter: World            🕘 49 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
