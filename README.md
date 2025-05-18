@@ -37,9 +37,9 @@ Text       |                                                  |0 secs 0.03%
 ```text
 🎮 Apex Legends                     🕘 455 hrs 22 mins
 🔫 Counter-Strike 2                 🕘 420 hrs 16 mins
-🎮 Dyson Sphere Program             🕘 72 hrs 52 mins
+🎮 Dyson Sphere Program             🕘 72 hrs 53 mins
 🎮 NEKOPARA Vol. 3                  🕘 52 hrs 32 mins
-🎮 Monster Hunter: World            🕘 49 hrs 18 mins
+🎮 Monster Hunter: World            🕘 49 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
