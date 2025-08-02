@@ -52,5 +52,5 @@ Text       |                                                  |0 secs 0.03%
 
 - EMail: mouren1101@outlook.com
 - Twitter: @mouren1101
-- Fingerprint：BA56 634F 0769 C9D5 9822  86B7 DD71 6AA0 2419 D289
+- Fingerprint：BA56 634F 0769 C9D5 9822  86B7 DD71 6AA0 2419 D289  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ybyhuorhximknxbqba4n3e2cyu)
