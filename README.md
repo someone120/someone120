@@ -37,7 +37,7 @@ Text       |                                                  |0 secs 0.03%
 ```text
 🔫 Counter-Strike 2                 🕘 597 hrs 53 mins
 🎮 Apex Legends                     🕘 586 hrs 51 mins
-🎮 Dyson Sphere Program             🕘 74 hrs 21 mins
+🎮 Dyson Sphere Program             🕘 74 hrs 52 mins
 🎮 NEKOPARA Vol. 3                  🕘 52 hrs 32 mins
 🎮 Monster Hunter: World            🕘 49 hrs 52 mins
 ```
