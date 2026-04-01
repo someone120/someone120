@@ -36,7 +36,7 @@ Text       |                                                  |0 secs 0.03%
 #### <a href="https://gist.github.com/306d158caf86b2658a26d0b57009d549" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike 2                 🕘 610 hrs 59 mins
-🎮 Apex Legends                     🕘 592 hrs 18 mins
+🎮 Apex Legends                     🕘 592 hrs 53 mins
 🎮 Dyson Sphere Program             🕘 74 hrs 52 mins
 🎮 NEKOPARA Vol. 3                  🕘 52 hrs 32 mins
 🎮 Warframe                         🕘 50 hrs 13 mins
