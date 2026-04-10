@@ -39,7 +39,7 @@ Text       |                                                  |0 secs 0.03%
 🎮 Apex Legends                     🕘 596 hrs 12 mins
 🎮 Dyson Sphere Program             🕘 74 hrs 52 mins
 🎮 NEKOPARA Vol. 3                  🕘 52 hrs 32 mins
-🎮 Warframe                         🕘 50 hrs 22 mins
+🎮 Warframe                         🕘 50 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
